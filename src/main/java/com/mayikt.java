@@ -10,5 +10,6 @@ public class mayikt {
         System.out.println("git测试");
         System.out.println("你好吗");
         System.out.println("hello world");
+		System.out.println("你好二");
     }
 }
